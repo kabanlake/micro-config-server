@@ -4,3 +4,4 @@ eureka:
   client:
     service-url:
       defaultZone: http://eureka-1:9001/eureka/,http://eureka-2:9002/eureka/
+university: '{cipher}a5dbc74e083baedd429321c2177b27bfc26f63dc0d663483bb2967d5a01d5430'
